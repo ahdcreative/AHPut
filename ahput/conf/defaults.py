@@ -1,1 +1,1 @@
-PUPUT_COMMENTS_PROVIDER = 'ahput.comments.DisqusCommentsProvider'
+AHUPUT_COMMENTS_PROVIDER = 'ahput.comments.DisqusCommentsProvider'
