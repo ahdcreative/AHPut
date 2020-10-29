@@ -1,17 +1,7 @@
 AHPut
 =====
-
-.. image:: https://travis-ci.org/APSL/puput.svg?branch=master
-    :target: https://travis-ci.org/APSL/puput
-        
-.. image:: https://api.codacy.com/project/badge/grade/f96e31ee1b8c4aa2b1402f12308afe96    
-   :target: https://www.codacy.com/app/marctc/puput
-
    
 Ahput is a powerful and simple Django app to manage a blog. It uses the awesome `Wagtail CMS <https://github.com/torchbox/wagtail>`_ as content management system.
-
-
-.. image:: http://i.imgur.com/3ByGQb6.png
 
 Features
 ~~~~~~~~
@@ -29,9 +19,6 @@ Features
 * Extensible entry model
 * Configurable default template color
 * Social share of blog entries (Facebook, Twitter and LinkedIn)
-
-
-.. image:: http://i.imgur.com/d13sGI3.png
 
 Examples of blog sites made with AHput
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
